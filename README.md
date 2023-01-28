@@ -188,6 +188,7 @@ The initial call that started it all.
 Meeting Ashton for the first time.
 
 ## Interview
+Getting a feel for working with Kat and CJ.
 
 ## Practice Task
 
