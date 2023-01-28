@@ -28,7 +28,7 @@ On January 4th, 2023 I joined the internal team at L3A Protocol. My monthly repo
 - [Discussion of Funds](grants)
 
 ## Background
-This repository
+This repository will dive deeper into what I have learned during my first month at L3A Protocol. Each section represents a step in the process to my current knowledgebase.
 
 ## Synergy Call
 
