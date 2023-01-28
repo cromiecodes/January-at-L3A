@@ -191,6 +191,7 @@ Meeting Ashton for the first time.
 Getting a feel for working with Kat and CJ.
 
 ## Practice Task
+A week of interviewing potential devs for Sr. roles.
 
 ## Engagement
 
