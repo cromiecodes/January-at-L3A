@@ -125,15 +125,15 @@ L3A Protocol is designed to collect, cryptographically store, process, and strea
     How L3Atom works
 L3A Protocol, by design 🎨, has no single authority that can alter its data, how the information is distributed or controlled, or who can see what and when. The infrastructure is open-source and governed by an open-source community.
 
-Unlike traditional monolithic data infrastructures that handle the consumption, storage, transformation, and output of data in one central data mesh and controlled by a small group of people, L3A’s self-serve design and data mesh architecture supports distributed, domain-specific data consumers and views “data-as-a-product,” with each domain handling their own data pipelines.
+Unlike traditional monolithic data infrastructures that handle the consumption, storage, transformation 🆕, and output of data in one central data lake 🐟 and controlled by a small group of people, L3A’s self-serve design and data mesh architecture supports distributed, domain-specific data consumers and views “data-as-a-product,” with each domain handling their own data pipelines.
 
-When a user is provisioning a node, it installs the core systems, low-level communications, and applications required to collect and process data onto the compute node and then adds the compute node to the cluster. The self-serve design allows users to reduce technical complexities making users able to focus on their individual data use cases. 
+When a user is provisioning a node, it installs the core systems, low-level communications, and applications required to collect and process 🔃 data onto the compute node and then adds the compute node to the cluster. The self-serve design allows users to reduce technical complexities making users able to focus on their individual data use cases. 
 
-This architecture allows greater autonomy and flexibility for end users and data owners, facilitating greater data experimentation and innovation.
+This architecture allows greater autonomy and flexibility for end users and data owners, facilitating greater data experimentation 🔬 and innovation.
 
 The current L3A Infrastructure (v4) covers approximately 80% of the entire crypto and Web 3.0 transactions today. 
 
-We are collecting between 0.8-2.5 terabytes of data per day, and we estimate that we will soon reach the petabyte scale.
+We are collecting between 0.8-2.5 terabytes of data per day, and we estimate that we will soon reach the petabyte scale ⚖️.
 
 
 
