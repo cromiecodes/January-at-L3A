@@ -7,7 +7,8 @@ The internet has brought both unprecedented connectivity and a new culture to ou
 In the hyper-connected world today, if you get beaten by a police officer on the street and someone records and streams it, it's no longer just a local police department disciplinary issue; it can lead to a diplomatic crisis between nations. 
 The internet has changed the world for the better, for the most part. But it also comes with a price. Even though big Web 2.0 players may have ethical and moral codes, they still control who sees what, when, and why. Companies like Facebook and Google are the world's most powerful companies because, within the last 3 years, data has surpassed oil in value. 
 
-    “The world’s most valuable resource is no longer oil, but data.” -economist.com
+    “The world’s most valuable resource 
+    is no longer oil, but data.” -economist.com
 
 These big companies have authority and influence over the world’s data and information, and we are expected to trust them. Their advertising-based business models, personalized ads, represent over 60% of internet-generated revenue. Their “proprietary” algorithms are specifically designed to increase engagement regardless of its impact on their users.
 
