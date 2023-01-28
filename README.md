@@ -1,7 +1,7 @@
 # January-at-L3A
 On January 4th, 2023 I joined the internal team at L3A Protocol. My monthly repos will give weekly breakdowns of my research, activities and engagements.
 
-# L3 Atom
+# L3A
     Introduction
 The internet has brought both unprecedented connectivity and a new culture to our world 🌍 . 
 
@@ -75,7 +75,7 @@ A right that you should NOT have to pay for!
 
     What type of data does L3Atom store and cover?
 
-L3Atom stores all transactional data in Web 3.0.
+L3A stores all transactional data in Web 3.0.
 
     Data Sources
 L3A stores data from the following data sources
@@ -101,7 +101,7 @@ All oracle transactions
     Public Blockchains
 Block size, block events, asset transfers, wallet addresses, blockchain confirmations, smart contract events
 
-    Why should we care?
+    Why should you care?
 Technologies no longer double ✖️2️⃣ every decade. 
 
 In the world of Web 3.0, some technology adoption cycles 🔂 are completed in less than 18 months.
@@ -117,14 +117,23 @@ Access to information has improved societies for centuries. We all should acknow
     “Access to truthful, unedited information is a fundamental right
 Free, Open-Source Data 4 Everyone 🌍
 
-    Introduction to L3Atom
-L3Atom is a petabyte-scale Open Data Initiative for crypto 🅱️ and Web 3.0, allowing everyone to have access to quality immutable data for free 🆓, forever. Our mission is to address the information asymmetry in Web 3.0 by democratizing data. 
+    What is L3A?
+L3A is a petabyte-scale Open Data Initiative for crypto 🅱️ and Web 3.0, allowing everyone to have access to quality immutable data for free 🆓, forever. Our mission is to address the information asymmetry in Web 3.0 by democratizing data. 
 
-L3Atom Protocol is designed to collect, cryptographically store, process, and stream data for free to anyone from anywhere. It stores billions of the world’s crypto and Web 3.0 data points 📍, transactions 🧾, and historical records 💾 allowing anyone to access data without having any intervention, interference, or influence over regulations, governments, and corporations, including the creators themselves
+L3A Protocol is designed to collect, cryptographically store, process, and stream data for free to anyone from anywhere. It stores billions of the world’s crypto and Web 3.0 data points 📍, transactions 🧾, and historical records 💾 allowing anyone to access data without having any intervention, interference, or influence over regulations, governments, and corporations, including the creators themselves
 
     How L3Atom works
-L3Atom Protocol, by design 🎨, has no single authority that can alter its data, how the information is distributed or controlled, or who can see what and when. The infrastructure is open-source and governed by an open-source community.
+L3A Protocol, by design 🎨, has no single authority that can alter its data, how the information is distributed or controlled, or who can see what and when. The infrastructure is open-source and governed by an open-source community.
 
+Unlike traditional monolithic data infrastructures that handle the consumption, storage, transformation, and output of data in one central data mesh and controlled by a small group of people, L3A’s self-serve design and data mesh architecture supports distributed, domain-specific data consumers and views “data-as-a-product,” with each domain handling their own data pipelines.
+
+When a user is provisioning a node, it installs the core systems, low-level communications, and applications required to collect and process data onto the compute node and then adds the compute node to the cluster. The self-serve design allows users to reduce technical complexities making users able to focus on their individual data use cases. 
+
+This architecture allows greater autonomy and flexibility for end users and data owners, facilitating greater data experimentation and innovation.
+
+The current L3A Infrastructure (v4) covers approximately 80% of the entire crypto and Web 3.0 transactions today. 
+
+We are collecting between 0.8-2.5 terabytes of data per day, and we estimate that we will soon reach the petabyte scale.
 
 
 
