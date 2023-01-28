@@ -182,6 +182,7 @@ We envision a thriving ecosystem ♻️ of researchers, data scientists 🧑‍�
 This repository will dive deeper into what I have learned during my first month at L3A Protocol. Each section represents a step in the process to my current knowledgebase.
 
 ## Synergy Call
+The initial call that started it all.
 
 ## Culture Call
 
