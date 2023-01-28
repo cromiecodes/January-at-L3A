@@ -177,30 +177,6 @@ Our goal is to be able to plug 🔌 the query engine directly into smart 📲 co
 
 We envision a thriving ecosystem ♻️ of researchers, data scientists 🧑‍🔬, entrepreneurs 👨‍💼, quants, traders, financial engineers 🦾, protocol architects 🏛️, startups, lawyers 👩🏼‍💼, regulators 👨‍⚖️, and even the general public 🏘️ to use L3Atom's Open Data infrastructure to innovate, develop various data applications, run analytics, search and indexing, hybrid oracles, trading, risk management, Web3 🌐 BI, financial engineering and financial forensics, etc.
 
-
-## Table of Contents
-- [Background](#background)
-- [Synergy Call](#synergy)
-- [Culture Call](#culture)
-- [Interview](#interview)
-- [Practice Task](#task)
-- [Engagement](#engagement)
-- [Onboarding](#onboarding)
-- [Research](#research)
-- [Knowledge Base](#knowledgebase)
-- [Recruitment](#recruitment)
-- [Values](#values)
-- [Brand Development](#brand)
-- [Philosophy Focus Group Workshop](#fgw)
-- [Query Tool Campaign](#query)
-- [TV Appearance](#nftheat)
-- [Adapter Campaign](#APIs)
-- [MIT Launch Prep](mit)
-- [Hackathon Prep](hack)
-- [Conference Prep](conference)
-- [Ambassadors Campaign](ambassadors)
-- [Discussion of Funds](grants)
-
 ## Background
 This repository will dive deeper into what I have learned during my first month at L3A Protocol. Each section represents a step in the process to my current knowledgebase.
 
