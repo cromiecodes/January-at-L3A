@@ -135,6 +135,24 @@ The current L3A Infrastructure (v4) covers approximately 80% of the entire crypt
 
 We are collecting between 0.8-2.5 terabytes of data per day, and we estimate that we will soon reach the petabyte scale ⚖️.
 
+    Core Functionalities of v4
+
+    Live Web 3.0 data streaming service
+End users can subscribe to live data feeds for free 🆓, i.e., Coinbase BTC/USD feed.
+
+
+    Historical data-as-a-service
+End users can use APIs or GraphQL to request historical transactions 🏦. i.e., All BTC/USD trade data on Coinbase between 10-10-2019 to 01-02-2020.
+
+
+    Analytical & query service
+Users can query, combine and run analytics on data via a web-based open analytical application. Users can create, test, visualize, and deploy custom data feeds 📊 and develop data products and gain insights at scale. 
+
+    Example: Net inflow of USDT on Uniswap compared to Binance in the last 26 minutes.
+
+Our goal is to be able to plug 🔌 the query engine directly into smart 📲 contracts to introduce on-chain analytics, enabling a data-driven web3 industry. 
+
+We envision a thriving ecosystem ♻️ of researchers, data scientists 🧑‍🔬, entrepreneurs 👨‍💼, quants, traders, financial engineers 🦾, protocol architects 🏛️, startups, lawyers 👩🏼‍💼, regulators 👨‍⚖️, and even the general public 🏘️ to use L3Atom's Open Data infrastructure to innovate, develop various data applications, run analytics, search and indexing, hybrid oracles, trading, risk management, Web3 🌐 BI, financial engineering and financial forensics, etc.
 
 
 ## Table of Contents
