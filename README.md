@@ -101,6 +101,31 @@ All oracle transactions
     Public Blockchains
 Block size, block events, asset transfers, wallet addresses, blockchain confirmations, smart contract events
 
+    Why should we care?
+Technologies no longer double ✖️2️⃣ every decade. 
+
+In the world of Web 3.0, some technology adoption cycles 🔂 are completed in less than 18 months.
+
+If the semantic web is inevitable and far more complex than the current web, we all have a responsibility to pay attention to how Web 3.0 data will be governed 👩‍⚖️ and used. 
+
+We should do our best to introduce appropriate standards, protocol design, and principles to establish a good foundation for the future of web3 data. 
+
+In the Web 2.0 era, innovators had amazing opportunities to invent “what is a database” and “how a web page should rank.” I believe we all have the same opportunity and responsibility today to invent, define, question, and build 👷‍♂️ better technologies.
+
+Access to information has improved societies for centuries. We all should acknowledge and do better. 
+
+    “Access to truthful, unedited information is a fundamental right
+Free, Open-Source Data 4 Everyone 🌍
+
+    Introduction to L3Atom
+L3Atom is a petabyte-scale Open Data Initiative for crypto 🅱️ and Web 3.0, allowing everyone to have access to quality immutable data for free 🆓, forever. Our mission is to address the information asymmetry in Web 3.0 by democratizing data. 
+
+L3Atom Protocol is designed to collect, cryptographically store, process, and stream data for free to anyone from anywhere. It stores billions of the world’s crypto and Web 3.0 data points 📍, transactions 🧾, and historical records 💾 allowing anyone to access data without having any intervention, interference, or influence over regulations, governments, and corporations, including the creators themselves
+
+    How L3Atom works
+L3Atom Protocol, by design 🎨, has no single authority that can alter its data, how the information is distributed or controlled, or who can see what and when. The infrastructure is open-source and governed by an open-source community.
+
+
 
 
 ## Table of Contents
