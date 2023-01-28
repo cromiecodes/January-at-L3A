@@ -203,28 +203,41 @@ Onboarding began right away on January 4th, 2023.
 I was given 7 years worth of R&D to analyze, evaluate and digest.
 
 ## Knowledge Base
+Ashton assigned me a knowledge base quiz to test my industry knowledge as well as my knowledge of L3A
 
 ## Recruitment
+Began creating introductory calls between L3A core team and top tier industry leads 
 
 ## Values
+After an intro with Dr. James, as a team we all begin to resonate on L3As values
 
 ## Brand Development
+After designing a skeleton of values we are able to begin establishing the L3A brand.
 
 ## Philosophy Focus Group Workshop
+Focus Group Workshop (FGW) #1 is held and recorded. Our goal following the FGW was to turn our mission statement into an ethical statement.
 
 ## Query Tool Campaign
+Our Query Tool Campaign was launched and dev outreach began via Twitter, email/phone and LinkedIn. Beta testers filled out the sign up form and begin navigating to our platform. Medium write-up was launched and onboarding materials/FAQs were uploaded to Gitbook. Testers will be directed to our Google Meet signup for a 45 minute walkthrough session with further instructions if they are stuck in the getting started phase. 
 
 ## TV Apearance 
+L3As first television appearance was filmed on January 23rd 2023. I was interviewed by NFT HEAT Podcast by John Kraski and Justin Shenkarow on Altrd TV. I spoke briefly about L3A and the beta tester campaign. 
 
 ## Adapter Campaign
+The adapter campaign was launched on January 24th, 2023. We began reaching out to developer communities who have access to our missing APIs.
 
 ## MIT Launch Prep
+Ashton will be presenting at MIT in the next coming weeks. We have been helping him prepare by organizing all operational and internal materials and by creating a solid campaign/ case study.
 
 ## Hackathon Prep
+We have begun seeking out potential hackers based on the Query and Adapter campaigns.
 
 ## Grand Conference Prep
+We have began discussing our intros and announcements that will be delivered live at the conference.
 
 ## Ambassadors Campaign
+I have met with several community managers and agencies to begin seeking out great talent pools for potential ambassadors or initial believers in L3A.
 
 ## Discussion of Funds
 
+On February 27th, 2023 we discussed incoming grants/donations and the tasks needed to fulfill the requirements for the funds. 
