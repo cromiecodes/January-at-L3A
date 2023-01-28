@@ -194,6 +194,7 @@ Getting a feel for working with Kat and CJ.
 A week of interviewing potential devs for Sr. roles.
 
 ## Engagement
+Ashton delivered my scope of work and offered me a full time position. 
 
 ## Onboarding
 
