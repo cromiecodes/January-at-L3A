@@ -197,6 +197,7 @@ A week of interviewing potential devs for Sr. roles.
 Ashton delivered my scope of work and offered me a full time position. 
 
 ## Onboarding
+Onboarding began right away on January 4th, 2023.
 
 ## Research
 
