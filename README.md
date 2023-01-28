@@ -67,7 +67,7 @@ The data should be immutable, and governance of the Protocol, management, and de
 
 Building Open Data Protocols and Infrastructures will not only open doors for new industries and exponential growth in web3, but it will also help to legitimize the industry. 
 
-L3A believes in access to quality, unedited information, as a fundamental right. 
+    L3A believes in access to quality, unedited information, as a fundamental right. 
 
 A right that you should NOT have to pay for!
 
