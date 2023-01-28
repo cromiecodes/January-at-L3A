@@ -1,6 +1,29 @@
 # January-at-L3A
 On January 4th, 2023 I joined the internal team at L3A Protocol. My monthly repos will give weekly breakdowns of my research, activities and engagements.
 
+## Table of Contents
+- [Background](#background)
+- [Synergy Call](#synergy)
+- [Culture Call](#culture)
+- [Interview](#interview)
+- [Practice Task](#task)
+- [Engagement](#engagement)
+- [Onboarding](#onboarding)
+- [Research](#research)
+- [Knowledge Base](#knowledgebase)
+- [Recruitment](#recruitment)
+- [Values](#values)
+- [Brand Development](#brand)
+- [Philosophy Focus Group Workshop](#fgw)
+- [Query Tool Campaign](#query)
+- [TV Appearance](#nftheat)
+- [Adapter Campaign](#APIs)
+- [MIT Launch Prep](mit)
+- [Hackathon Prep](hack)
+- [Conference Prep](conference)
+- [Ambassadors Campaign](ambassadors)
+- [Discussion of Funds](grants)
+
 # L3A
     Introduction
 The internet has brought both unprecedented connectivity and a new culture to our world 🌍 . 
