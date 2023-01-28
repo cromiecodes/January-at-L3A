@@ -73,6 +73,33 @@ Building Open Data Protocols and Infrastructures will not only open doors for ne
 
 A right that you should NOT have to pay for!
 
+    What type of data does L3Atom store and cover?
+
+L3Atom stores all transactional data in Web 3.0.
+
+    Data Sources
+
+    Decentralized Finance
+All financial transactions including wallets, assets, liquidity, value locked, asset transfers, asset custody
+
+    Decentralized Crypto Exchanges
+All financial transaction, liquidity, assets, asset transfers, wallets
+
+    Centralized Crypto Exchanges
+Order books, trade data, transactional data, candle stick, ticker, inflow and outflow data
+
+    Blockchain Games
+Games, user assets, user activities, game asset classifications, game assets transfers, in-game transactions
+
+    Metaverses
+Metaverse assets, transactions, user activities
+
+    Oracles
+All oracle transactions
+
+    Public Blockchains
+Block size, block events, asset transfers, wallet addresses, blockchain confirmations, smart contract events
+
 
 
 ## Table of Contents
