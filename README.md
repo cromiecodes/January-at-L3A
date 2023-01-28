@@ -78,6 +78,7 @@ A right that you should NOT have to pay for!
 L3Atom stores all transactional data in Web 3.0.
 
     Data Sources
+L3A stores data from the following data sources
 
     Decentralized Finance
 All financial transactions including wallets, assets, liquidity, value locked, asset transfers, asset custody
