@@ -19,7 +19,7 @@ On January 4th, 2023 I joined the internal team at L3A Protocol. My monthly repo
 - [Brand Development](#brand)
 - [Philosophy Focus Group Workshop](#fgw)
 - [Query Tool Campaign](#query)
-- [TV Appearance] (#nftheat)
+- [TV Appearance](#nftheat)
 - [Adapter Campaign](#APIs)
 - [MIT Launch Prep](mit)
 - [Hackathon Prep](hack)
