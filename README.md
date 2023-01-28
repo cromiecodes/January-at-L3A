@@ -42,7 +42,35 @@ The next generation of the web-
 
     Web 3.0 is here. 
 
-It is early and estimated to be more complex and impactful than Web 2.0. The current web is centered around the “sharing of information.” Web 3.0 is extending this to “share of information + value.” It will introduce more advanced industries than the current Web 2.0. Imagine the futuristic business applications we have yet to discover.
+It is early and estimated to be more complex and impactful than Web 2.0. 
+
+The current web is centered around the “sharing of information.
+
+    ” Web 3.0 is extending this to “share of information + value.” 
+
+It will introduce more advanced industries than the current Web 2.0. 
+
+Imagine the futuristic business applications we have yet to discover.Building a petabyte-scale decentralized, immutable data infrastructure.
+
+    The next generation of the web (Web 3.0) is far more complicated and powerful. 
+
+We should not underestimate the power and the core principles of decentralization. 
+
+Distributed ledger technologies (DLT), smart contracts, scalable public blockchains, and movements toward decentralization will play a crucial role in the next 10-20 years of the internet.
+
+
+With the use of cryptographic principles, distributed ledger technologies, and modern decentralized data architecture (data mesh), we have an opportunity and a small window of time to create a New Era of data infrastructure standards for Web 3.0. 
+
+Instead of putting all trust and faith in corporations and the people behind running them, we should embrace Open Data Protocols & Infrastructures with built-in trust, security, transparency, and traceability by design. 
+
+The data should be immutable, and governance of the Protocol, management, and development execution of the roadmap should not have a single authority. 
+
+Building Open Data Protocols and Infrastructures will not only open doors for new industries and exponential growth in web3, but it will also help to legitimize the industry. 
+
+L3A believes in access to quality, unedited information, as a fundamental right. 
+
+A right that you should NOT have to pay for!
+
 
 
 ## Table of Contents
