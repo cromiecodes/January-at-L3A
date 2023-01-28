@@ -200,6 +200,7 @@ Ashton delivered my scope of work and offered me a full time position.
 Onboarding began right away on January 4th, 2023.
 
 ## Research
+I was given 7 years worth of R&D to analyze, evaluate and digest.
 
 ## Knowledge Base
 
