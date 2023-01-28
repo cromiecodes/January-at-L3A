@@ -46,7 +46,9 @@ It is early and estimated to be more complex and impactful than Web 2.0.
 
 The current web is centered around the “sharing of information.
 
-    ” Web 3.0 is extending this to “share of information + value.” 
+    Web 3.0 is extending 
+    this to “share of 
+    information + value.” 
 
 It will introduce more advanced industries than the current Web 2.0. 
 
