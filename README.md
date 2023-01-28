@@ -118,7 +118,7 @@ Access to information has improved societies for centuries. We all should acknow
 Free, Open-Source Data 4 Everyone 🌍
 
     What is L3A?
-L3A is a petabyte-scale Open Data Initiative for crypto 🅱️ and Web 3.0, allowing everyone to have access to quality immutable data for free 🆓, forever. Our mission is to address the information asymmetry in Web 3.0 by democratizing data. 
+L3A is a petabyte-scale Open Data Initiative for crypto  and Web 3.0, allowing everyone to have access to quality immutable data for free 🆓, forever. Our mission is to address the information asymmetry in Web 3.0 by democratizing data. 
 
 L3A Protocol is designed to collect, cryptographically store, process, and stream data for free to anyone from anywhere. It stores billions of the world’s crypto and Web 3.0 data points 📍, transactions 🧾, and historical records 💾 allowing anyone to access data without having any intervention, interference, or influence over regulations, governments, and corporations, including the creators themselves
 
