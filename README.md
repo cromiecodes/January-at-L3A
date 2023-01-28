@@ -24,7 +24,7 @@ Even though big Web 2.0 players may have ethical and moral codes, they still con
     “The world’s most valuable resource 
     is no longer oil, but data.” -economist.com
 
-These big companies have authority and influence over the world’s data and information, and we are expected to trust🔒 them. Their advertising-based business models, personalized ads, represent over 60% of internet-generated revenue. Their “proprietary” algorithms are specifically designed to increase engagement regardless of its impact on their users.
+These big companies have authority and influence over the world’s data and information, and we are expected to trust 🔒 them. Their advertising-based business models, personalized ads, represent over 60% of internet-generated revenue. Their “proprietary” algorithms are specifically designed to increase engagement regardless of its impact on their users.
 
     Data is centralized.
 
