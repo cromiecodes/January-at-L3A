@@ -2,6 +2,26 @@
 On January 4th, 2023 I joined the internal team at L3A Protocol. My monthly repos will give weekly breakdowns of my research, activities and engagements.
 
 # L3 Atom
+    Introduction
+The internet has brought both unprecedented connectivity and a new culture to our world. Someone in the 90s would not have been able to imagine that streaming a video from their bedroom could generate more income than that of a doctor. Fast forward to today’s age, some YouTubers have more influence than politicians. 
+In the hyper-connected world today, if you get beaten by a police officer on the street and someone records and streams it, it's no longer just a local police department disciplinary issue; it can lead to a diplomatic crisis between nations. 
+The internet has changed the world for the better, for the most part. But it also comes with a price. Even though big Web 2.0 players may have ethical and moral codes, they still control who sees what, when, and why. Companies like Facebook and Google are the world's most powerful companies because, within the last 3 years, data has surpassed oil in value. 
+
+    “The world’s most valuable resource is no longer oil, but data.” -economist.com
+
+These big companies have authority and influence over the world’s data and information, and we are expected to trust them. Their advertising-based business models, personalized ads, represent over 60% of internet-generated revenue. Their “proprietary” algorithms are specifically designed to increase engagement regardless of its impact on their users.
+
+    Data is centralized.
+
+Today, large data players like Amazon, Google, Facebook, and Microsoft control over 85% of  Internet data. That is more than 100 zettabytes and growing exponentially.
+Selling our attention, prediction of our future behavior, actions, and perception to advertisers for profit is the bottom line. We are the product and the puppets of algorithms.
+Information asymmetry has demonstrated social inequality, scandals, polarization, and corruption have even sometimes led to war. With an enormous amount of concentrated data and information, surveillance capitalism has come to shape politics and culture. Sadly, the more power you have, the more information you can gain, leading to an advantage for only a few individuals, entities, and societies. Sure some say that’s how the world works. Maybe. But we have come a long way from kings & pharaohs. Today, most have access to information, thanks to the internet, which was only available for presidents or VIPs in the 60s.
+
+The next generation of the web-
+
+    Web 3.0 is here. 
+
+It is early and estimated to be more complex and impactful than Web 2.0. The current web is centered around the “sharing of information.” Web 3.0 is extending this to “share of information + value.” It will introduce more advanced industries than the current Web 2.0. Imagine the futuristic business applications we have yet to discover.
 
 
 ## Table of Contents
