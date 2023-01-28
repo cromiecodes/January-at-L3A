@@ -9,7 +9,9 @@ Someone in the 90s would not have been able to imagine that streaming a video fr
 
 Fast forward to today’s age, some YouTubers have more influence than politicians. 
 In the hyper-connected world today, if you get beaten by a police officer on the street and someone records and streams it, it's no longer just a local police department disciplinary issue; it can lead to a diplomatic crisis between nations. 
-The internet has changed the world for the better, for the most part. 
+The internet has changed the world for the better...
+
+... Well... for the most part. 
 
 But it also comes with a price. Even though big Web 2.0 players may have ethical and moral codes, they still control who sees what, when, and why. Companies like Facebook and Google are the world's most powerful companies because, within the last 3 years, data has surpassed oil in value. 
 
