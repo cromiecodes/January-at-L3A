@@ -36,7 +36,7 @@ Information asymmetry has demonstrated social inequality ⚖️, scandals, polar
 
 With an enormous amount of concentrated data and information, surveillance capitalism has come to shape politics and culture. Sadly, the more power you have, the more information you can gain, leading to an advantage for only a few individuals, entities, and societies. Sure some say that’s how the world works. 
 
-Maybe🤔. 
+Maybe 🤔. 
 
 But we have come a long way from kings & pharaohs. Today, most have access to information, thanks to the internet, which was only available for presidents 🥇 or VIPs in the 60s.
 
