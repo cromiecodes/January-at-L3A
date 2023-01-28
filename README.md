@@ -10,17 +10,63 @@ On January 4th, 2023 I joined the internal team at L3A Protocol. My monthly repo
 - [Culture Call](#culture)
 - [Interview](#interview)
 - [Practice Task](#task)
-- [Engagemnt](#engagement)
+- [Engagement](#engagement)
 - [Onboarding](#onboarding)
-- [Research](#reseaech)
+- [Research](#research)
+- [Knowledge Base](#knowledgebase)
 - [Recruitment](#recruitment)
 - [Values](#values)
 - [Brand Development](#brand)
-- [Philosophy Focus Group Workshop](#FGW)
-- [Query Tool Campaign](#Query)
+- [Philosophy Focus Group Workshop](#fgw)
+- [Query Tool Campaign](#query)
+- [TV Appearance] (#nftheat)
 - [Adapter Campaign](#APIs)
+- [MIT Launch Prep](mit)
+- [Hackathon Prep](hack)
+- [Conference Prep](conference)
+- [Ambassadors Campaign](ambassadors)
+- [Discussion of Funds](grants)
 
 ## Background
 This repository
 
-## Knowledgebase
+## Synergy Call
+
+## Culture Call
+
+## Interview
+
+## Practice Task
+
+## Engagement
+
+## Onboarding
+
+## Research
+
+## Knowledge Base
+
+## Recruitment
+
+## Values
+
+## Brand Development
+
+## Philosophy Focus Group Workshop
+
+## Query Tool Campaign
+
+## TV Apearance 
+
+## Adapter Campaign
+
+## MIT Launch Prep
+
+## Hackathon Prep
+
+## Grand Conference Prep
+
+## Ambassadors Campaign
+
+## Discussion of Funds
+
