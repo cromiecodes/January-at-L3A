@@ -13,7 +13,9 @@ The internet has changed the world for the better...
 
 ... Well... for the most part. 
 
-You see 👀 it also comes with a price. Even though big Web 2.0 players may have ethical and moral codes, they still control who sees what, when, and why. Companies like Facebook and Google are the world's most powerful companies because, within the last 3 years, data has surpassed oil in value. 
+You see 👀 it also comes with a price. 
+
+Even though big Web 2.0 players may have ethical and moral codes, they still control who sees what, when, and why. Companies like Facebook and Google are the world's most powerful companies because, within the last 3 years, data has surpassed oil in value. 
 
     “The world’s most valuable resource 
     is no longer oil, but data.” -economist.com
