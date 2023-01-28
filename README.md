@@ -5,7 +5,7 @@ On January 4th, 2023 I joined the internal team at L3A Protocol. My monthly repo
     Introduction
 The internet has brought both unprecedented connectivity and a new culture to our world 🌍 . 
 
-Someone in the 90s would not have been able to imagine that streaming a video 📹 from their bedroom could generate more income than that of a doctor 👨‍⚕️🥼. 
+Someone in the 90s would not have been able to imagine that streaming a video 📹 from their bedroom could generate more income than that of a doctor 👨‍⚕️. 
 
 Fast forward to today’s age, some YouTubers have more influence than politicians. 
 
