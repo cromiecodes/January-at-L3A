@@ -185,6 +185,7 @@ This repository will dive deeper into what I have learned during my first month 
 The initial call that started it all.
 
 ## Culture Call
+Meeting Ashton for the first time.
 
 ## Interview
 
