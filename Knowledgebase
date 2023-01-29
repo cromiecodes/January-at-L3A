@@ -360,3 +360,4 @@ Cloud technology is the use of computing resources (hardware and software) that 
   Validator
 A validator is a node that participates in a consensus process to validate and commit blocks of transactions to the blockchain. Validators are responsible for verifying the correctness of the transactions and the cryptographic signatures of the participants. They also play an important role in maintaining the security of the blockchain network by preventing malicious activities and ensuring the network is operating efficiently.
 
+
