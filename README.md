@@ -184,27 +184,27 @@ This repository will dive deeper into what I have learned during my first month 
 ## Intro Calls 
 Call with Kat: This call was where I was first introduced to Operations manager Kat and was screened for an Intro call with L3A CEO (December 6,2022)
 
-Call with Ashton: This call was where I was introduced to Ashton as a DAO contributor for content writing and we began discussing a possible full time role in the future (December 6,2022)
+Call with Ashton: This call was where I was introduced to Ashton as a DAO contributor for content writing and we began discussing a possible full time role in the future (December 6,2022).
 
 
 ## Synergy Calls
-Onboarding Steps with Kat: This was a call to initiate my engagement and onboarding (December 11, 2022)
+Onboarding Steps with Kat: This was a call to initiate my engagement and onboarding (December 11, 2022).
 
-Culture Team Call: This meeting was a roll call to introduce me to the team. I met the team (Apesh, Jay and CJ) and Kat announced I will be helping L3A facilitate the focus groups with Cj and also work on content creation. (December 12, 2022)
+Culture Team Call: This meeting was a roll call to introduce me to the team. I met the team (Apesh, Jay and CJ) and Kat announced I will be helping L3A facilitate the focus groups with Cj and also work on content creation. (December 12, 2022).
 
-Focus Group Workshop Team Call: This meeting was to discuss Focus Group Workshops to start planning coo laboration and learn my role in the focus groups. (December 13, 2022) 
+Focus Group Workshop Team Call: This meeting was to discuss Focus Group Workshops to start planning coo laboration and learn my role in the focus groups. (December 13, 2022). 
 
 ## Interview
-Getting a feel for working with Kat, Ashton and CJ by planning our collaboration on our first project, Focus Groups. The purpose of this call was to discuss the Focus Group scope in detail and test my team collaboration and project management skills (December 19, 2022)
+Getting a feel for working with Kat, Ashton and CJ by planning our collaboration on our first project, Focus Groups. The purpose of this call was to discuss the Focus Group scope in detail and test my team collaboration and project management skills (December 19, 2022).
 
 ## Practice Task
-The purpose of this call was for Kat to assign me my first trial assignment which involved a week of interviewing potential devs for Sr. roles (December 20, 2022)
+The purpose of this call was for Kat to assign me my first trial assignment which involved a week of interviewing potential devs for Sr. roles (December 20, 2022).
 
 ## Engagement
-The purpose of this call was for Ashton to deliver my scope of work and offer me a full time position at L3A (December 20, 2022)
+The purpose of this call was for Ashton to deliver my scope of work and offer me a full time position at L3A (December 20, 2022).
 
 ## Recruitment
-Began creating introductory calls between L3A core team and top tier industry leads on December 26th, 2022. I held one-on-one calls with 10 candidates for the following roles; 
+Began creating introductory calls between L3A core team and top tier industry leads on December 26th, 2022. I held one-on-one calls with 12 candidates for the following roles; 
 - Director of Infastructure
 - Senior Blockchain Solutions Architect
 - Senior DevOps Engineer - Databases
@@ -212,25 +212,25 @@ Began creating introductory calls between L3A core team and top tier industry le
 - Technical Project Manager
 
 ## Onboarding
-Onboarding began right away on January 4th, 2023.
+Onboarding began right away on January 4th, 2023. We began laying down the pipeline for the Query Campaign and learning about L3A's products.
 
 ## Research
-I was given 7 years worth of R&D to analyze, evaluate and digest.
+I was given 7 years worth of R&D to analyze, evaluate and digest. I began looking over all internal files and completing daily evaluations (Jan 5, 2023).
 
 ## Knowledge Base
-Ashton assigned me a knowledge base quiz to test my industry knowledge as well as my knowledge of L3A 
+Ashton assigned me a knowledge base quiz to test my industry knowledge as well as my knowledge of L3A and I completed the knowledge base within 24 hours then met with Ashton to discuss the 5 questions I still needed guidance on (Jan 6, 2023). Following this call, CJ and I also recieved our second batch of weekly assignments (Jan 9, 2023).
 
 ## Values
-After an intro with Dr. James, as a team we all begin to resonate on L3As values
+After an intro with Dr. James, as a team we all begin to resonate on L3As values. We held an intro call for our First Focus Group Workshop and began preparing the materials needed for the first formal call. I created a schedule and presented it to the L3A team (Jan 9, 2023).
 
 ## Brand Development
-After designing a skeleton of values we are able to begin establishing the L3A brand.
+After designing a skeleton of values we are able to begin establishing the L3A brand. We were able to start planning L3As brand keeping Dr. James' ethical knowledge in mind and finalized the schedule for our Ethics FGW (Jan 10-16, 2023).
 
 ## Philosophy Focus Group Workshop
-Focus Group Workshop (FGW) #1 is held and recorded. Our goal following the FGW was to turn our mission statement into an ethical statement.
+Focus Group Workshop (FGW) #1 was held and recorded. Our goal following the FGW was to turn our mission statement into an ethical statement (Jan 17, 2023).
 
 ## Query Tool Campaign
-Our Query Tool Campaign was launched and dev outreach began via Twitter, email/phone and LinkedIn. Beta testers filled out the sign up form and begin navigating to our platform. Medium write-up was launched and onboarding materials/FAQs were uploaded to Gitbook. Testers will be directed to our Google Meet signup for a 45 minute walkthrough session with further instructions if they are stuck in the getting started phase. 
+Our Query Tool Campaign was launched and dev outreach began via Twitter, email/phone and LinkedIn. Beta testers filled out the sign up form and begin navigating to our platform. Medium write-up was launched and onboarding materials/FAQs were uploaded to Gitbook. Testers will be directed to our Google Meet signup for a 45 minute walkthrough session with further instructions if they are stuck in the getting started phase (Jan 18, 2023). 
 
 ## TV Apearance 
 L3As first television appearance was filmed on January 23rd 2023. I was interviewed by NFT HEAT Podcast by John Kraski and Justin Shenkarow on Altrd TV. I spoke briefly about L3A and the beta tester campaign. 
@@ -239,17 +239,17 @@ L3As first television appearance was filmed on January 23rd 2023. I was intervie
 The adapter campaign was launched on January 24th, 2023. We began reaching out to developer communities who have access to our missing APIs.
 
 ## MIT Launch Prep
-Ashton will be presenting at MIT in the next coming weeks. We have been helping him prepare by organizing all operational and internal materials and by creating a solid campaign/ case study.
+Ashton will be presenting at MIT in the next coming weeks. We have been helping him prepare by organizing all operational and internal materials and by creating a solid campaign/ case study (Jan 24, 2023).
 
 ## Hackathon Prep
-We have begun seeking out potential hackers based on the Query and Adapter campaigns.
+We have begun seeking out potential hackers based on the Query and Adapter campaigns (Jan 26, 2023).
 
 ## Grand Conference Prep
-We have began discussing our intros and announcements that will be delivered live at the conference.
+We have began discussing our intros and announcements that will be delivered live at the conference (Jan 26, 2023).
 
 ## Ambassadors Campaign
-I have met with several community managers and agencies to begin seeking out great talent pools for potential ambassadors or initial believers in L3A.
+I have met with several community managers and agencies to begin seeking out great talent pools for potential ambassadors or initial believers in L3A (Jan 27, 2023).
 
 ## Discussion of Funds
 
-On February 27th, 2023 we discussed incoming grants/donations and the tasks needed to fulfill the requirements for the funds. 
+On February 27th, 2023 we discussed incoming grants/donations and the tasks needed to fulfill the requirements for the funds (Jan 27, 2023). 
