@@ -1,32 +1,51 @@
 My Knowledgebase Questions + Answers
 
+
       Industry Knowledge
       
+      
   What is Web3?
+
 Web3 is a collection of libraries which allow developers to interact with the Ethereum blockchain. It provides an API for interacting with smart contracts and dApps on the Ethereum blockchain, allowing developers to build decentralized applications (dApps). Web3 also provides tools for securely signing transactions, interacting with decentralized exchanges, and more.
 
+
   Difference between Web2 vs Web3
+
 Web2 refers to the second generation of the World Wide Web, which primarily utilized web technologies such as HTML, CSS, and JavaScript to create webpages and applications. Web3, also known as the Semantic Web, is the third generation of the World Wide Web and is defined by the use of technologies such as linked data, semantic web technologies, and artificial intelligence to create applications that can process and understand human-readable data.
 
+
   What is a centralized architecture?
+
 A centralized architecture is one where all data and processes are managed by a single central server or computer or controlled by one company, while a decentralized architecture is one where data and processes are distributed across multiple computers or servers. In a centralized architecture, the central server is responsible for data storage, processing, and communication, while in a decentralized architecture, each computer or server is responsible for its own data storage, processing, and communication.
 
+
   What is immutability in Web3?
+
 Immutability in web3 refers to the inability of a data stored on the blockchain to be changed or modified. This is an important feature of blockchain technology, since it ensures the security and integrity of data stored on the blockchain. Immutability ensures that changes to the blockchain can only be made if it is authorized by a predetermined set of rules, such as consensus.
 
+
   What is decentralization means in Web3?
+  
 Decentralization in web3 refers to the use of distributed ledger technology (DLT) to create an open, transparent, and secure platform for digital assets, data, and applications. This technology allows for peer-to-peer (P2P) transactions and data sharing, as well as increased trust, transparency, and security. It also enables users to create, store, and manage digital assets without the need for a third-party intermediary.
 
+
   What types of data L3 Atom covers?
+  
 L3Atom covers historical data and current data. L3Atom covers over 80% of Web3 data. 
   
+  
   What is the difference between centralized and decentralized distributing systems?
+  
 Centralized distributing systems involve a single central server that stores and processes data for all users. This data is accessed by users through a single point of access, which can make it easier to manage and control. Decentralized distributing systems involve multiple servers or nodes that store and process data independently from each other. Users can access the data from any of the nodes, which makes it more resilient to outages and more secure.
 
+
   The size of the Web2 industry
+  
 The web2 industry was estimated to be worth approximately $14 billion in 2020, with an estimated annual growth rate of 11.3%. Meanwhile, the web3 industry is a rapidly growing industry with no set size. According to some estimates, the web3 industry is valued at around $1.5 billion, but this figure is expected to increase significantly in the coming years. Many people believe Web3 will become a trillion dollar industry. The potential of the web3 industry is immense, with many companies and individuals exploring new ways to use blockchain technology and decentralized networks.
 
+
   The size of how much data were generated in the last 365 years?
+  
 2021: 175 Zetabypes
 2022: still waiting…
 2030: without AI est. 500 estibytes 
@@ -38,162 +57,262 @@ More infinite than counting how many stars are in the galaxy.
 1 billion  zettabyte = 1 exibyte 
 
   What is the difference between Web1 , Web2, & Web3?
+  
 In short, Web1 is a term used to refer to the first generation of web technologies that were mainly focused on providing basic web pages and simple content. Web2 is the second generation of web technologies and is focused on providing interactive content and applications. Web3 is the third generation of web technologies and focuses on providing a more immersive and interactive experience for users.
 
+
   What does protocol mean?
+  
 Protocol is a set of rules and procedures that govern how computers communicate with each other. It describes how data is formatted, encrypted, and transmitted between two or more devices.
   
+  
   What does governance mean for a DAO?
+  
 Governance for a DAO is the set of rules, processes and procedures that are used to manage the organization. It includes voting rights and decision-making processes, budgeting, and control of resources. Governance is crucial for a DAO as it provides a structure and guidelines for decision-making and ensures that all members of the organization are acting in the best interest of the DAO.
 
+
   What does open data mean?
+  
 Open data is data that is publicly available. It is freely accessible and can be shared and modified by anyone. Open data is often used for research and development, to enable businesses to innovate, and to support public services and policy making.
 
+
   What does censorship resistance mean?
+  
 Censorship resistance is the ability of a system or technology to resist attempts at censorship, or the ability to allow for the free exchange of information and ideas. Censorship resistance is important for protecting freedom of speech and expression, as well as for preserving the integrity of information and other cultural works.
 
+
   What does end to end encryption means?
+  
 End-to-end encryption is a system of communication where only the communicating users can read the messages. It involves the use of a secure end point, such as a virtual private network, to encrypt the data as it's sent from one user to another, ensuring that no third party can access the communication. This type of encryption is often used to protect sensitive data, such as financial transactions, and to ensure that only the intended recipients can access the messages.
 
+
   What is a data mesh?
+  
 Data mesh is a set of technologies that enable organizations to connect and share data between multiple systems and applications. It enables data to flow freely between different parts of the organization and provides a unified view of data, allowing for better decision making and insights.
 
+
   What does data indexing mean?
+  
 Data indexing is the process of creating an index structure for data in a database to improve the speed of data retrieval. Indexing creates an index for the data stored in the database, which helps to quickly locate and retrieve the desired data.
 
+
   What is the difference between indexing and analytics?
+  
 Indexing is the process of cataloging and organizing data, while analytics is the process of analyzing data to draw insights and inform decisions. Indexing focuses on making the data easily searchable and accessible, while analytics focuses on understanding the data and uncovering hidden patterns and trends.
 
+
   What does consensus algorithm mean?
+  
 Consensus algorithms are algorithms used to achieve agreement on a single data value among distributed systems. Examples of consensus algorithms include Paxos, Raft, and Byzantine Fault Tolerance. These algorithms are used to ensure the integrity of data shared between multiple nodes in a distributed system.
 
+
   What does data standards mean?
+  
 Data standards are a set of rules and guidelines that organizations must follow when handling data. These standards help ensure that the data is accurate, consistent, and secure. They also ensure that data is shared in a format that is easy to understand and use.
 
+
   What does tokenomics mean?
+  
 Tokenomics refers to the economic and financial aspects of a project that uses blockchain tokens. It is the study of how the tokens are created, distributed, used, and exchanged in order to create value and incentivize participation in the network. Tokenomics typically involves the design of an economic model for a token-based system that incentivizes its users to participate in the network, as well as an analysis of the dynamics of the token’s supply and demand.
 
+
   What is data as a service?
+  
 Data as a Service (DaaS) is a cloud computing model that enables organizations to access and use data from remote sources without having to store and manage it locally. It provides a way for organizations to quickly and easily access data from a variety of sources, including both public and private sources. DaaS can be used for a variety of applications, such as analytics, machine learning, and artificial intelligence.
 
+
   What is a query as a service?
+  
 Query as a service (QaaS) is a type of cloud-based service that allows users to query databases and other data sources via an application programming interface (API). It is typically used to access large datasets and allows users to access data quickly and easily without having to write their own code. QaaS is often used for data analytics, machine learning, and other applications that require large amounts of data to be processed.
 
+
   What is open infrastructure?
+  
 Open infrastructure is a term used to describe a type of IT infrastructure that is built on open source components and is designed to be more flexible and cost-effective than traditional proprietary systems. It typically consists of components such as operating systems, applications, and cloud services. Open infrastructure can also refer to open standards, protocols, and tools that enable organizations to build, deploy, and manage infrastructure in a more agile and cost-effective manner.
 
+
   What does websocket API mean?
+  
 Websocket API is an application programming interface that allows two-way communication between a client and a server over a single, long-running connection. It is typically used for real-time communications, such as chat applications, gaming, and other web-based applications.
 
+
   What does Trustless mean in web3 context?
+  
 Trustless in Web3 refers to the ability to interact with the blockchain without having to trust a third-party intermediary. This is possible because of the decentralized nature of the blockchain, which means that users are able to interact directly with each other without having to trust a centralized organization or institution.
 
+
   What does offchain data feed mean?
+  
 Off Chain data feed is a type of data feed that provides data from sources outside the blockchain. This data can be used to trigger smart contracts and other blockchain-based applications. It can also be used to provide additional information to blockchain nodes.
 
+
   What does elastic scalability mean?
+  
 Elastic scalability is the ability of a system to scale up or down in response to changes in demand. This allows organizations to respond quickly to changing business needs or market conditions without having to make large investments in infrastructure or personnel.
 
+
   What is petabyte?
+  
 A petabyte is a unit of digital storage space equal to 1,000,000,000,000,000 bytes. It is often used to measure large amounts of data, such as the amount of data stored on a hard drive or in a data center.
 
+
   How many songs, movies, images can be stored in a petabyte?
+  
 A petabyte of storage space can accommodate approximately 600,000 HD movies, 24 million songs, and 2 billion digital photos.
 
+
   What’s the size of the current internet in terms of data?
+  
 The exact size of the internet is difficult to determine as it is constantly growing and changing. However, estimates suggest that the internet contains over 4.5 billion webpages and over 8 exabytes of data.
 
+
   What does microservices mean?
+  
 Microservices are an architectural approach to software development where applications are composed of small, independently deployable services. Each service is responsible for a single business capability, and communicates with other services through a well-defined interface. This approach allows for more flexible development, as services can be developed, tested and deployed independently, and allows for greater scalability and reliability than applications composed of a single monolithic codebase.
 
+
   What does a decentralized cloud mean?
+  
 A decentralized cloud is a type of cloud computing system where the computing resources are distributed across multiple, independent nodes in a network. This type of system is designed to provide greater scalability, reliability, and security than a more traditional centralized cloud. Decentralized clouds also allow for improved privacy, as data is not stored in a single location and can be more easily distributed across multiple nodes.
 
+
   What is a federated consensus mechanism?
+  
 Federated consensus mechanism is a consensus algorithm where decision making is distributed among the members of a decentralized network. It is a type of distributed consensus system that uses peer-to-peer communication in order to validate transactions, and can be applied to a variety of decentralized applications. Unlike other consensus methods, federated consensus does not rely on any single entity or set of entities to validate transactions. Instead, it relies on the consensus of a majority of members of the network.
 
+
   What is an orderbook?
+  
 An order book is an electronic list of buy and sell orders for a specific security or financial instrument, organized by price level. The order book lists the number of shares being bid or offered at each price point, and provides investors with an up-to-date view of current market activity.
 
+
   What is the difference between data warehousing, data lake and data mesh?
+  
 Data warehousing is a system used for reporting and data analysis, and is typically used for storing data from disparate sources. Data lake is a storage repository that holds a large amount of raw data in its native format until it is needed. Data mesh is a distributed data architecture that allows data to be connected and shared across multiple systems, applications, and users.
 
+
   What is the difference between normalization and data enhancement?
+  
 Normalization is a data pre-processing technique that involves rescaling values in the data set to a common range, such as 0 to 1. This technique is often used to improve the accuracy of machine learning algorithms. Data enhancement, on the other hand, is a process of adding additional data or features to the existing data set to make it more accurate or complete. It can involve anything from adding new features to the data set to using techniques such as data augmentation to add new samples to the data set.
+
+
 
       L3A Protocol
 
+
+
   What is the L3A Protocol?
+  
 L3A  is an all-in-one decentralized data infrastructure that allows access to data with no censorship or middleman.
 
+
   Where did L3A came 
+  
 We got tired of paying premium prices for data and believed it should be accessed for free so we created our own data lake.
 
+
   30 sec pitch
+  
 (Who) L3A is a new decentralized data protocol that began in 2020 when out of frustration we were not able to obtain reliable and cost efficient data in Web3 (When). (Why) We are trying to invent an all-in-one data infrastructure for Web3. (How) L3Atom stores billions of real time crypto and Web3 data points, transactions and historical records to be accessed by anyone without censorship. (Why) Our goal is to address information asymmetry and keep an immutable data ledger of all Web3 transaction data in a decentralized infrastructure and make it free for everyone forever. 
 
+
   What problem does it solve?
+  
 Building Open Data Protocols and Infrastructures will not only open doors for new industries and exponential growth in web3, but it will also help to legitimize the industry. I believe access to quality, unedited information, is a fundamental right, and you should NOT have to pay for it.
 
+
   How does L3A Protocol work (non technical)?
+  
 L3A Protocol, by design, has no single authority that can alter its data, how the information is distributed ****or controlled, or who can see what and when. The infrastructure is open-source and governed by an open-source community.)
 Unlike traditional monolithic data infrastructures that handle the consumption, storage, transformation, and output of data in one central data lake and controlled by a small group of people, L3Atom’s self-serve design and data mesh architecture supports distributed, domain-specific data consumers and views “data-as-a-product,” with each domain handling their own data pipelines.
 When a user is provisioning a node, it installs the core systems, low-level communications, and applications required to collect and process data onto the compute node and then adds the compute node to the cluster. The self-serve design allows users to reduce technical complexities making users able to focus on their individual data use cases. This architecture allows greater autonomy and flexibility for end users and data owners, facilitating greater data experimentation and innovation.
 
+
   The history and our journey
+  
 We have been in the blockchain and crypto space since 2015. For years, we had to spend tens of thousands of dollars to obtain reliable data from centralized data providers. We struggled with data quality, availability, and fair price. Often we wait for weeks for the data providers' internal support tickets to get fixed. Some common data feeds cost us a few thousand dollars per month. We quite couldn't figure out why the data was so expensive. Further, when we ask how accurate the data is from these centralized data providers, we often hear, “we are professionals; we have the best tech, and all our data is accurate.” There wasn’t any way for us to know if the data that we paid for was accurate or not. We had no choice but to accept and hope the centralized data companies were telling the truth.
 However, time and time again, we face numerous issues with data quality and cost. At the end of 2020, we reached our limit with our frustration. We decided to build a data lake for ourselves. We thought it would take only a few months to build. Months turned into more than a year. With many iterations, trial and error with sleepless nights, we figured out the core design and operation principles to build a data infrastructure that’s efficient and scalable.
 Today, we cover 80%+ of the entire crypto and Web 3.0 transactional data market, and we are the only Web3 Open data Protocol to date. Our next phase is to expand our data coverage, introduce data mesh architecture and go fully decentralized infrastructure.
 Types of use case, new industries and innovation that we are enabling
 Our core mission is to address the information asymmetry in society by democratizing information. We believe that access to data and Web 3.0 (not personal information) should be a fundamental right of everybody. Industries include: Web3, Metaverses, AI, data, technology, 3D, etc.
 
+
   Why do we do what we do?
+  
 To keep data open-source and allow data to be free forever.
 
+
   What have we achieved so far?
+  
 3 products and access to 80+% of web3 data
 
+
   Who are our main customers?
+  
 developers — In addition, many different types of entities, such as businesses, governments, financial institutions, software developers, researchers, and data scientists, may want access to blockchain data for various purposes. For example, businesses may want to use blockchain data to understand the progress of a transaction, while governments may want to use blockchain data to track and monitor financial activities. Additionally, software developers may use blockchain data to develop applications, while researchers and data scientists may use blockchain data to conduct research and analyze trends in the blockchain industry.
 
-  What products/tech we offer (semi-technical description of our products
+
+  What products/tech we offer? (semi-technical description of our products
+  
 1) streaming service, 2) historical data and 3) query tool
 
+
   Streaming service as a service - what problem are we solving?
+  
 Data streaming can be used to solve a variety of problems, such as analyzing large amounts of data in real-time, collecting and processing data from multiple sources, and enabling faster data access and retrieval. It also makes it easier to process data from disparate sources and apply sophisticated analytics to it.
 
+
   Streaming service as a service - what kind of data are we streaming?
+  
 live data feeds that include trades, tickers, candles, interest and paths 
 https://gda-fund.gitbook.io/l3-atom-v3-documentation/overview/supported-feeds-and-symbols
 https://docs.google.com/document/d/1D3c3gvhbRcjsOHFbGgq8L20U00hlCilin_Jjr2vMBls/edit#
 
+
   Streaming service as a service - how can someone obtain this service/cost etc?
+  
 The websocket API streams market updates at low latency for use cases that require monitoring of the market in real time. 
 
+
   Streaming service as a service - why did we build this?
+  
 To allow people to access real time data for free
 
+
   Historical-data-as-a-service - what problem are we solving?
+  
 Users having to pay a high price to access BTC trading data
 
-  Historical-data-as-a-service - what kind of data are we streaming?
-End users can use APIs or GraphQL to request historical transactions. i.e., All BTC/USD trade data on Coinbase between 10-10-2019 to 01-02-2020
 
+  Historical-data-as-a-service - what kind of data are we streaming?
+  
+End users can use APIs or GraphQL to request historical transactions. i.e., All BTC/USD trade data on Coinbase between 10-10-2019 to 01-02-2020
+ 
+ 
   Historical-data-as-a-service - how can someone obtain this service/cost etc?
+  
 RESTAPI or Websocket (the method) 
 Can use a query engine to prepare the historical data as well
 Zero from our end, but they might have to pay for migration costs. 
 
+
   Historical-data-as-a-service - why did we build this?
+  
 To allow users to query past trading data for free
 
+
   Query Engine - what problem are we solving?
+  
 We help people facilitate data retrieval from decentralized applications (dApps). Our query tool enables users to search for and access the data stored on a blockchain or other distributed ledger. It allows developers to build more efficient dApps, as they provide an easy way to access data stored on the blockchain.
 
+
   Query Engine - what kind of data are we streaming?
+  
 Users can query, combine and run analytics on data via a web-based open analytical application. Users can create, test, visualize, and deploy custom data feeds and develop data products and gain insights at scale.
 
+
   Query Engine - how can someone obtain this service/cost etc?
+  
 https://query.l3atom.com/
 3 functions: 
 1) Querying
@@ -201,21 +320,31 @@ https://query.l3atom.com/
 3)Displaying (screenshotting, printing, etc.)
 Zero cost
 
+
   Query Engine - why did we build this?
+  
 We built this to be able to plug the query engine directly into smart contracts to introduce on-chain analytics, enabling a data-driven web3 industry.
 
+
   What are the products in our pipeline?
+  
 streaming as a service, Power Query (formerly fusion), historical data 
 
+
   What is our Unified API?
+  
 Our unified API is our Websocket 
 
+
   What is our UDC?
+  
 UDC is our Universal Data Collector Collection/management of all of our connectors (computers) that are running 24/7 that are connected the centralized and decentralized exchanges/ data sources
 Goal: To translate and normalize everything into the most universal language possible
 Ex: Coinbase info is extracted in a different code than uniswap 
 
+
   What is our Tamper-proof ETL?
+  
 Extract, Transform, Load
 When we Extract from Binance we apply tamper-proof cryptographic security for the data
 We apply security for the transaction cryptographically
@@ -223,141 +352,233 @@ By design, the data is immutable.
 This is important because… In the FTX case their internal database was wiped by a hacker but we have a copy of those records because we store data. If a law firm wants to obtain the data they can buy it from a private company and FTX can bribe the company. 
 All of our data is secure and public. No bribes can change the data. It is immutable and tamper-proof
 
+
   What is our DDM?
+  
 Decentralized Data Mesh
 Early Transportation - Animals (Horses) —> Carriages —> Steam Engines —> Electric
 Data Mesh is the next evolution of Databases
 Decentralized data mesh is a type of distributed data architecture that enables data to be shared, stored and accessed securely across a network of distributed nodes. It uses a peer-to-peer network to enable data to be exchanged between nodes without the need for a trusted third party. This type of data architecture is often used for distributed applications and services that need to access and share data with other devices on a network in a secure and efficient manner.
 
+
   What is Open Metrics?
+  
 Open metrics is a set of standards used to measure and evaluate the performance of blockchain systems. It includes metrics such as throughput, latency, security, scalability, and more. The goal of open metrics is to provide a consistent way to measure and compare the performance of different blockchain implementations.
 
+  
+  
       Relevant Terminologies
+      
+      
 
   Aggregator
+  
 An aggregator is a type of software or service that collects data from multiple sources and presents it in a single unified view. Aggregators are commonly used for news and other online content, such as blogs, podcasts, and videos. The data gathered by an aggregator can be used to create customized news feeds and to generate analytics and insights.
 
+
   Airdrop
+  
 Airdrop is a feature available on certain wireless devices that allows users to transfer data from one device to another wirelessly. It is typically used to transfer files such as photos and documents, but can also be used for transferring apps and other digital content.
 
+
   AMM
+  
 AMM stands for Automatic Market Maker. It is a type of computer algorithm used in decentralized finance (DeFi) to provide liquidity to markets. The algorithm works by automatically creating and maintaining a market between two assets, such as crypto tokens. This market is designed to ensure that buyers and sellers have an equal opportunity to trade at a fair price.
 
+
   API
+  
 An Application Programming Interface (API) is a set of subroutine definitions, protocols, and tools for building software and applications. An API specifies how software components should interact and APIs are used when programming graphical user interface (GUI) components.
 
+
   Audit
+  
 An audit is an independent examination of a company's financial statements and/or other records to ensure accuracy and compliance with applicable laws and regulations. It is typically done by an external auditor and may include a review of the company's internal controls, financial reporting, and other related records.
 
+
   Back testing
+  
 Backtesting is a process of testing a trading strategy on historical data to see how it would have performed in the past. It can help traders to evaluate the effectiveness and reliability of their trading strategy before deploying it in live markets.
 
+
   Bridge
+  
 A bridge is a tool that allows developers to connect their applications to the Ethereum blockchain. It allows developers to access Ethereum's features, such as smart contracts and other blockchain-based applications. Bridges help developers interact with the Ethereum blockchain without needing to deploy a full node.
 
+
   CEX
+  
 A centralized exchange is a digital marketplace where users can buy and sell cryptocurrencies and other digital assets. These exchanges are managed by a third-party, usually in the form of a company, which acts as the intermediary between buyers and sellers. Centralized exchanges provide a secure platform for users to safely buy and sell digital assets, but they also come with certain risks.
 
+
   DEX
+  
 A decentralized exchange (DEX) is a cryptocurrency exchange that does not rely on a third party service to hold the customer's funds. Instead, trades occur directly between users (peer-to-peer) through an automated process. This type of exchange provides increased security and privacy as it does not depend on a centralized exchange, which can potentially be hacked or manipulated.
 
+
   Collateral
+  
 Collateral is digital assets used to secure cryptocurrency loans or other types of financial agreements. It is usually held in an escrow account and can be used to cover the cost of a loan if the borrower fails to make payments. Examples of collateral in web3 include cryptocurrencies, stablecoins, and non-fungible tokens (NFTs).
 
+
   Composability
+  
 Composability refers to the ability of developers to combine different components and applications to create more complex and powerful applications. For example, a developer could use a decentralized storage platform to store data and an oracle service to retrieve and use that data from within a smart contract. This can give developers the flexibility to build powerful applications that leverage multiple components in the web3 ecosystem.
 
+
   Consensus Mechanism
+  
 Consensus mechanism is a mechanism that allows nodes in a distributed network to reach a common agreement on the state of the network. This agreement is usually achieved through a process of consensus, which requires nodes to communicate and reach a consensus on the state of the network. Consensus mechanisms are used to ensure the integrity of data, as well as to provide the highest degree of fault tolerance. Examples of consensus mechanisms in web3 include Proof of Work (PoW), Proof of Stake (PoS), and Delegated Proof of Stake (DPoS).
 
+
   dApp
+  
 A dApp (decentralized application) is a type of software application that runs on a distributed ledger, such as a blockchain, and is powered by tokens or smart contracts. dApps are typically open-source and their infrastructure is decentralized, meaning that there is no single point of control. dApps enable users to interact and exchange value without relying on a central authority.
 
+
   Data Query
+  
 A data query is a tool used to pull information from a database. It is typically used to retrieve specific pieces of information from a database, such as records or statistics. It is often used to retrieve data for analysis or reporting.
 
+
   EVM Compatible
+  
 EVM compatibility refers to the ability to access the Ethereum Virtual Machine (EVM) from the web3.js JavaScript library. This allows you to write and deploy smart contracts, interact with them, and query the blockchain.
 
+
   Finality
+  
 Finality is the point at which a transaction is considered irreversible and can no longer be reversed. This is usually achieved through consensus algorithms such as proof-of-work or proof-of-stake, where the majority of participants agree that the transaction should be accepted and appended to the blockchain. In web3, finality is often referred to as "finality on the blockchain" and is a key feature of many blockchain-based applications.
 
+
   Liquidity Pool
+  
 A liquidity pool is a type of decentralized finance (DeFi) product that allows users to deposit their funds into a pool and earn a return. The liquidity pool is a type of automated market maker (AMM) that uses an algorithmic pricing model to determine the prices of tokens in the pool. The pool is usually made up of two tokens, one of which is known as the base asset, and the other is the quote asset. The tokens are then exchanged against each other at a predetermined rate. By providing liquidity to the pool, users can earn a return in the form of transaction fees.
 
+
   Mempool
+  
 A mempool is a section of web3 that stores all the transactions that have been broadcasted to the Ethereum network but have not yet been included in a block. The mempool ensures that all transactions are valid, and it is the responsibility of the miners to include the transactions in blocks.
 
+
   Middleware
+  
 Middleware is a layer of software between the user interface and the server that handles requests and responses for applications. It works as a bridge between the user interface and the back-end server, providing additional functionality such as authentication, caching, and request logging. Middleware can be used to enhance the user experience and improve the scalability of web applications.
 
+
   SDK
+  
 An SDK is a Software Development Kit that provides developers with the tools necessary to develop decentralized applications and interact with the Ethereum blockchain. It includes libraries, tools, and documentation to build and deploy web3-enabled applications.
 
+
   Node
+  
 A node is a computer that runs a web3 compatible client and is connected to the Ethereum network. This node can be used to interact with the Ethereum blockchain and execute transactions.
 
+
   Offchain
+  
 Offchain refers to activities or processes that occur outside of the blockchain. Off Chain activities are generally used to reduce the amount of data that needs to be recorded on the blockchain, thereby optimizing the performance of the blockchain. Examples of off chain activities include off chain data storage, off chain computations, and off chain payments.
 
+
   Onchain
+  
 On-chain refers to data and operations that are stored and executed directly on the blockchain. This includes transactions, smart contracts, and other forms of data. The data is stored and validated on the blockchain, making it immutable and resistant to manipulation.
 
+
   Staking
+  
 Staking refers to the process of locking up cryptocurrency in a smart contract in order to earn rewards. It is similar to traditional staking in that it requires users to put up their coins as collateral in exchange for rewards. The rewards are usually in the form of additional tokens, rewards for using the platform, or other forms of incentive.
 
+
   Throughput
+  
 Throughput refers to the rate of data that can be transferred between two nodes through the web3 protocol. It is the measure of how quickly transactions and other data can be sent and received, and is typically measured in bytes per second.
 
+
   TPS
+  
 TPS stands for Transactions Per Second and is a measure of how many transactions can be processed on a blockchain network in a given amount of time. It is generally used as a metric to measure the scalability of a blockchain.
 
+
   L1 data
+  
 L1 data is the most detailed data available in a market. It generally includes the most up-to-date prices, market orders, and market trades. It is the data used by traders and investors to make informed decisions.
 
+
   L2 data
+  
 L2 data is Level 2 market data, which provides a deeper level of information compared to Level 1 market data. Level 2 data includes the best bid and ask prices of market makers and other market participants, as well as the size of the bids and asks.
 
+
   L3 data
+  
 L3 data is a type of data that provides detailed information about a particular topic or subject. This data can be used to gain insights into a particular industry or market, or to help make decisions based on specific parameters. L3 data can be generated from a variety of sources, including surveys, research studies, and social media.
 
+
   Data mesh
+  
 Data mesh is a data architecture that enables organizations to securely and efficiently share data across multiple systems, services, and departments. It is based on a decentralized data infrastructure that allows for data to be stored, accessed, and manipulated across multiple nodes, enabling businesses to achieve higher levels of agility and scalability.
 
+
   ETL
+  
 ETL stands for Extract, Transform and Load. It is a process used to collect data from multiple sources, transform it into a format that can be analyzed, and then load it into a target database or data warehouse for storage.
 
+
   Governance
+  
 Web3 governance is a process of decision making within decentralized networks. It involves the creation of rules and regulations, as well as the execution of those rules and regulations. Governance in Web3 is typically achieved through the use of decentralized autonomous organizations (DAOs) and distributed autonomous organizations (DAOs). These organizations use smart contracts, decentralized applications (dapps), and distributed consensus mechanisms to enable decision making by stakeholders.
 
+
   Latency
+  
 Latency is the delay between when a request is made and when the response is received. It is measured in milliseconds (ms) and is an important factor in determining the performance of web applications. Latency can be caused by several factors such as network speed, server load, and system resources.
 
+
   Tamper proof
+  
 Tamper-proof refers to the ability of a platform or application to resist tampering or manipulation of its data or code. This is especially important in the blockchain and cryptocurrency space, as it ensures that users can trust the data they interact with is authentic and valid.
 
+
   GraphQL
+  
 GraphQL is a query language developed by Facebook for use with data held in a variety of different databases. It is an open source technology and is used for building APIs and data-driven applications. GraphQL is used to query, manipulate and retrieve data from any source. It is designed to make it easier to query data from large, complex databases.
 
+
   PostgresQL
+  
 PostgreSQL is an object-relational database management system (ORDBMS) that is known for its stability and performance. It is open source and is used to store data in a relational format. It is very powerful and can be used to manage large datasets in a secure and efficient manner. It is also popular for its ability to handle complex queries, transactions and stored procedures.
 
+
   Data mesh
+  
 Data mesh is a data management and sharing platform that provides users with a secure, decentralized platform for storing, sharing, and analyzing data. Data mesh provides its users with a private, secure mesh network that allows for data to be securely shared and stored across multiple organizations and users. It also provides tools for data exploration, analysis, and visualization.
 
+
   Decentralized data mesh node 
+  
 A decentralized data mesh node is a computer or device that connects to a decentralized data mesh network, allowing it to access and share data with other nodes on the network. It is a type of distributed computing architecture that allows data to be stored, shared and analyzed in a secure, distributed environment.
 
+
   Unified API
+  
 Unified API is a set of unified programming interfaces for accessing multiple data sources and services, such as databases, web services, and other applications. It is designed to make it easier to integrate different types of data from different sources. Unified APIs provide developers with a single set of tools and guidelines to access data from multiple sources with a consistent and reliable manner.
 
+
   Exchange connectors
+  
 An Exchange Connector is a library or software that allows developers to access data from cryptocurrency exchanges. This data can be used to build applications that allow users to interact with different exchanges, such as trading, transferring assets, and more.
 
+
   Cloud tech
+  
 Cloud technology is the use of computing resources (hardware and software) that are delivered as a service over a network, typically the internet. Cloud technologies allow businesses to access data and applications from any device with an internet connection, which can be used to store and manage data, as well as host websites, applications and services.
 
+
   Validator
+  
 A validator is a node that participates in a consensus process to validate and commit blocks of transactions to the blockchain. Validators are responsible for verifying the correctness of the transactions and the cryptographic signatures of the participants. They also play an important role in maintaining the security of the blockchain network by preventing malicious activities and ensuring the network is operating efficiently.
+
 
 
