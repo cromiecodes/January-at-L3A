@@ -181,11 +181,18 @@ We envision a thriving ecosystem ♻️ of researchers, data scientists 🧑‍�
 ## Background
 This repository will dive deeper into what I have learned during my first month at L3A Protocol. Each section represents a step in the process to my current knowledgebase.
 
-## Synergy Call
-The initial call that started it all.
+## Intro Calls 
+Call with Kat: This call was where I was first introduced to Operations manager Kat and was screened for an Intro call with L3A CEO (December 6,2022)
 
-## Culture Call
-Meeting Ashton for the first time.
+Call with Ashton: This call was where I was introduced to Ashton as a DAO contributor for content writing and we began discussing a possible full time role in the future (December 6,2022)
+
+
+## Synergy Calls
+Onboarding Steps with Kat: This was a call to initiate my engagement and onboarding (December 11, 2022)
+
+Culture Team Call: This meeting was a roll call to introduce me to the team. I met the team (Apesh, Jay and CJ) and Kat announced I will be helping L3A facilitate the focus groups with Cj and also work on content creation. (December 12, 2022)
+
+Focus Group Workshop Team Call: This meeting was to discuss Focus Group Workshops to start planning coo laboration and learn my role in the focus groups. (December 13, 2022) 
 
 ## Interview
 Getting a feel for working with Kat and CJ.
