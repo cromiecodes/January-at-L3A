@@ -204,7 +204,12 @@ The purpose of this call was for Kat to assign me my first trial assignment whic
 The purpose of this call was for Ashton to deliver my scope of work and offer me a full time position at L3A (December 20, 2022)
 
 ## Recruitment
-Began creating introductory calls between L3A core team and top tier industry leads
+Began creating introductory calls between L3A core team and top tier industry leads on December 26th, 2022. I held one-on-one calls with 10 candidates for the following roles; 
+- Director of Infastructure
+- Senior Blockchain Solutions Architect
+- Senior DevOps Engineer - Databases
+- Senior Smart Contract Developer
+- Technical Project Manager
 
 ## Onboarding
 Onboarding began right away on January 4th, 2023.
