@@ -9,10 +9,10 @@ On January 4th, 2023 I joined the internal team at L3A Protocol. My monthly repo
 - [Interview](#interview)
 - [Practice Task](#task)
 - [Engagement](#engagement)
+- [Recruitment](#recruitment)
 - [Onboarding](#onboarding)
 - [Research](#research)
 - [Knowledge Base](#knowledgebase)
-- [Recruitment](#recruitment)
 - [Values](#values)
 - [Brand Development](#brand)
 - [Philosophy Focus Group Workshop](#fgw)
@@ -195,13 +195,16 @@ Culture Team Call: This meeting was a roll call to introduce me to the team. I m
 Focus Group Workshop Team Call: This meeting was to discuss Focus Group Workshops to start planning coo laboration and learn my role in the focus groups. (December 13, 2022) 
 
 ## Interview
-Getting a feel for working with Kat and CJ.
+Getting a feel for working with Kat, Ashton and CJ by planning our collaboration on our first project, Focus Groups. The purpose of this call was to discuss the Focus Group scope in detail and test my team collaboration and project management skills (December 19, 2022)
 
 ## Practice Task
-A week of interviewing potential devs for Sr. roles.
+The purpose of this call was for Kat to assign me my first trial assignment which involved a week of interviewing potential devs for Sr. roles (December 20, 2022)
 
 ## Engagement
-Ashton delivered my scope of work and offered me a full time position. 
+The purpose of this call was for Ashton to deliver my scope of work and offer me a full time position at L3A (December 20, 2022)
+
+## Recruitment
+Began creating introductory calls between L3A core team and top tier industry leads
 
 ## Onboarding
 Onboarding began right away on January 4th, 2023.
@@ -210,10 +213,7 @@ Onboarding began right away on January 4th, 2023.
 I was given 7 years worth of R&D to analyze, evaluate and digest.
 
 ## Knowledge Base
-Ashton assigned me a knowledge base quiz to test my industry knowledge as well as my knowledge of L3A
-
-## Recruitment
-Began creating introductory calls between L3A core team and top tier industry leads 
+Ashton assigned me a knowledge base quiz to test my industry knowledge as well as my knowledge of L3A 
 
 ## Values
 After an intro with Dr. James, as a team we all begin to resonate on L3As values
